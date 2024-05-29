@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @luvsalamaiaz
-- 👀 I’m interested in music and movies
-- 🌱 I’m currently learning how to not be so stupid
-- 💞️ I’m looking to collaborate on whatever
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: i dont know what im doing here
+### Olá, sejam bem vindos!!💟
+
+Meu nome é Vitória Malafaia
+- Estou fazendo cursos da Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contao comigo via 📫
+
+vitoriamalafaia.220107@gmail.com
+
+![](https://media1.tenor.com/m/6GIi9tonjeEAAAAd/parkour-the-office.gif)
 
 <!---
 luvsalamaiaz/luvsalamaiaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
