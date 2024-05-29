@@ -1,7 +1,7 @@
 ### Olá, sejam bem vindos!!💟
 
 Meu nome é Vitória Malafaia
-- Estou fazendo cursos da Alura
+- Estou fazendo cursos da [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
